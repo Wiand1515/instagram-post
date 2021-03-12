@@ -1,0 +1,82 @@
+body{
+    background-color: black;
+    font-size: 10px;
+}
+.content-container{
+    width: 450px;
+    height: 600px;
+    margin: auto;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+}
+.upper-content{
+    height: 40px;
+    width: auto;
+    font-size: 10px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+  
+
+}
+.fa-html5{
+    font-size: 26px;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.fa-ellipsis-v{
+    float: right;
+    font-size: 26px;
+    margin-right: 15px;
+    margin-top: 9px;
+    
+}
+.upper-content p{
+    display: inline-block;
+    font-size: 12px;
+    }
+/* .upper-content h2{
+    display: inline;
+    margin-left: 46px;
+    font-size: 12px;
+    
+    } */
+
+.middle-content{
+    height: 300px;
+    width: auto;
+}
+.middle-content img{
+    height: 300px;
+    width: 450px;
+}
+
+.lower-content{
+    height: 200px;
+    width: auto;
+}
+.fa-bookmark {
+    float:right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+.icons {
+    font-size: 30px;
+    margin-top: 10px;
+}
+.fa-heart{
+    margin-left: 10px;;
+}
+ 
+.lower-content p{
+    margin-left: 10px;
+}
+.post-title{
+    font-size: 15px;
+}
+.post-info{
+    font-size: 14px;
+}
+
